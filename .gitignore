@@ -1,0 +1,142 @@
+######### SHOPME-COMMON ############
+ShopmeCommon/HELP.md
+ShopmeCommon/target/
+ShopmeCommon/!.mvn/wrapper/maven-wrapper.jar
+ShopmeCommon/!**/src/main/**/target/
+ShopmeCommon/!**/src/test/**/target/
+
+### STS ###
+ShopmeCommon/.apt_generated
+ShopmeCommon/.classpath
+ShopmeCommon/.factorypath
+ShopmeCommon/.project
+ShopmeCommon/.settings
+ShopmeCommon/.springBeans
+ShopmeCommon/.sts4-cache
+
+### IntelliJ IDEA ###
+ShopmeCommon/.idea
+ShopmeCommon/*.iws
+ShopmeCommon/*.iml
+ShopmeCommon/*.ipr
+
+### NetBeans ###
+ShopmeCommon//nbproject/private/
+ShopmeCommon//nbbuild/
+ShopmeCommon//dist/
+ShopmeCommon//nbdist/
+ShopmeCommon//.nb-gradle/
+ShopmeCommon/build/
+ShopmeCommon/!**/src/main/**/build/
+ShopmeCommon/!**/src/test/**/build/
+
+### VS Code ###
+ShopmeCommon/.vscode/
+
+######### SHOPME-WEBPARENT ############
+ShopmeCommon/ShopmeWebParent/HELP.md
+ShopmeCommon/ShopmeWebParent/target/
+ShopmeCommon/ShopmeWebParent/!.mvn/wrapper/maven-wrapper.jar
+ShopmeCommon/ShopmeWebParent/!**/src/main/**/target/
+ShopmeCommon/ShopmeWebParent/!**/src/test/**/target/
+
+### STS ###
+ShopmeCommon/ShopmeWebParent/.apt_generated
+ShopmeCommon/ShopmeWebParent/.classpath
+ShopmeCommon/ShopmeWebParent/.factorypath
+ShopmeCommon/ShopmeWebParent/.project
+ShopmeCommon/ShopmeWebParent/.settings
+ShopmeCommon/ShopmeWebParent/.springBeans
+ShopmeCommon/ShopmeWebParent/.sts4-cache
+
+### IntelliJ IDEA ###
+ShopmeCommon/ShopmeWebParent/.idea
+ShopmeCommon/ShopmeWebParent/*.iws
+ShopmeCommon/ShopmeWebParent/*.iml
+ShopmeCommon/ShopmeWebParent/*.ipr
+
+### NetBeans ###
+ShopmeCommon/ShopmeWebParent/nbproject/private/
+ShopmeCommon/ShopmeWebParent/nbbuild/
+ShopmeCommon/ShopmeWebParent/dist/
+ShopmeCommon/ShopmeWebParent/nbdist/
+ShopmeCommon/ShopmeWebParent/.nb-gradle/
+ShopmeCommon/ShopmeWebParent/build/
+ShopmeCommon/ShopmeWebParent/!**/src/main/**/build/
+ShopmeCommon/ShopmeWebParent/!**/src/test/**/build/
+
+### VS Code ###
+ShopmeCommon/ShopmeWebParent/.vscode/
+
+######### SHOPME-BACKEND ############
+ShopmeWebParent/ShopmeBackEnd/HELP.md
+ShopmeWebParent/ShopmeBackEnd/ShopmeWebParent/ShopmeBackEnd/target/
+ShopmeWebParent/ShopmeBackEnd/ShopmeWebParent/ShopmeBackEnd/!.mvn/wrapper/maven-wrapper.jar
+ShopmeWebParent/ShopmeBackEnd/ShopmeWebParent/ShopmeBackEnd/!**/src/main/**/target/
+ShopmeWebParent/ShopmeBackEnd/ShopmeWebParent/ShopmeBackEnd/!**/src/test/**/target/
+
+### STS ###
+ShopmeWebParent/ShopmeBackEnd/.apt_generated
+ShopmeWebParent/ShopmeBackEnd/.classpath
+ShopmeWebParent/ShopmeBackEnd/.factorypath
+ShopmeWebParent/ShopmeBackEnd/.project
+ShopmeWebParent/ShopmeBackEnd/.settings
+ShopmeWebParent/ShopmeBackEnd/.springBeans
+ShopmeWebParent/ShopmeBackEnd/.sts4-cache
+
+### IntelliJ IDEA ###
+ShopmeWebParent/ShopmeBackEnd/.idea
+ShopmeWebParent/ShopmeBackEnd/*.iws
+ShopmeWebParent/ShopmeBackEnd/*.iml
+ShopmeWebParent/ShopmeBackEnd/*.ipr
+
+### NetBeans ###
+ShopmeWebParent/ShopmeBackEnd/nbproject/private/
+ShopmeWebParent/ShopmeBackEnd/nbbuild/
+ShopmeWebParent/ShopmeBackEnd/dist/
+ShopmeWebParent/ShopmeBackEnd/nbdist/
+ShopmeWebParent/ShopmeBackEnd/.nb-gradle/
+build/
+ShopmeWebParent/ShopmeBackEnd/!**/src/main/**/build/
+ShopmeWebParent/ShopmeBackEnd/!**/src/test/**/build/
+
+### VS Code ###
+ShopmeWebParent/ShopmeBackEnd/.vscode/
+
+######### SHOPME-FRONTEND ############
+ShopmeWebParent/ShopmeFrontEnd/HELP.md
+ShopmeWebParent/ShopmeFrontEnd/target/
+ShopmeWebParent/ShopmeFrontEnd/!.mvn/wrapper/maven-wrapper.jar
+ShopmeWebParent/ShopmeFrontEnd/!**/src/main/**/target/
+ShopmeWebParent/ShopmeFrontEnd/!**/src/test/**/target/
+
+### STS ###
+ShopmeWebParent/ShopmeFrontEnd/.apt_generated
+ShopmeWebParent/ShopmeFrontEnd/.classpath
+ShopmeWebParent/ShopmeFrontEnd/.factorypath
+ShopmeWebParent/ShopmeFrontEnd/.project
+ShopmeWebParent/ShopmeFrontEnd/.settings
+ShopmeWebParent/ShopmeFrontEnd/.springBeans
+ShopmeWebParent/ShopmeFrontEnd/.sts4-cache
+
+### IntelliJ IDEA ###
+ShopmeWebParent/ShopmeFrontEnd/.idea
+ShopmeWebParent/ShopmeFrontEnd/*.iws
+ShopmeWebParent/ShopmeFrontEnd/*.iml
+ShopmeWebParent/ShopmeFrontEnd/*.ipr
+
+### NetBeans ###
+ShopmeWebParent/ShopmeFrontEnd/nbproject/private/
+ShopmeWebParent/ShopmeFrontEnd/nbbuild/
+ShopmeWebParent/ShopmeFrontEnd/dist/
+ShopmeWebParent/ShopmeFrontEnd/nbdist/
+ShopmeWebParent/ShopmeFrontEnd/.nb-gradle/
+ShopmeWebParent/ShopmeFrontEnd/build/
+ShopmeWebParent/ShopmeFrontEnd/!**/src/main/**/build/
+ShopmeWebParent/ShopmeFrontEnd/!**/src/test/**/build/
+
+### VS Code ###
+ShopmeWebParent/ShopmeFrontEnd/.vscode/
+
+
+
